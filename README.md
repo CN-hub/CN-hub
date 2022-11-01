@@ -19,9 +19,5 @@
 
   <a href="https://www.instagram.com/cn.bjj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href ="mailto:nascimento.sistemas21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-    ![ Animação de cobra ](https://github.com/CN-hub/CN-hub/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-    [![ readme ](https://github-readme-stats.vercel.app/api/pin/?username=CN-hub&repo=CN-hub&theme=react)](https://github.com/CN-hub/CN-hub)
