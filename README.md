@@ -1,11 +1,11 @@
-## Olá eu sou o Cleilton Nascimento, estudante de programação e tecnologia!
+## Olá, eu sou o Cleilton Nascimento, migrando de uma carreira administrativa para o mundo da programação e tecnologia!
 <div align="center">
   <a href="https://github.com/CN-hub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CN-hub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CN-hub&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-   ## Front-End 🛠️  
+   ## Habilidades 🛠️  
 
 <div style="display: inline_block"><br>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
