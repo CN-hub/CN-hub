@@ -1,19 +1,21 @@
-## Olá, eu sou o Cleilton Nascimento, migrando de uma carreira administrativa para o mundo da programação e tecnologia!
+## Olá, meu nome é Cleilton Nascimento tenho 39 anos, natural do estadao do Ceará, formado em Gestão de Recursos Humananos pela UNIFAP - CEARÁ, no ano de 2023 migrando de uma carreira administrativa para o mundo da programação e tecnologia!
+
 <div align="center">
   <a href="https://github.com/CN-hub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CN-hub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CN-hub&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-   ## Habilidades 🛠️  
+   ## Liguagens e Habilidades 🛠️  
 
 <div style="display: inline_block"><br>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
   
-  ## Contatos!
+  ## Redes Sociais!
  
 <div> 
 
