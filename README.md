@@ -1,4 +1,4 @@
-# 👋 Olá | Hello, I'm Cleilton Nascimento
+# 👋 | Hello, I'm Cleilton Nascimento
 
 Sou um **Desenvolvedor em transição de carreira**, com base sólida em **Gestão de Recursos Humanos (UNIFAP – Ceará, 2023)** e experiência administrativa, atualmente focado em **desenvolvimento de software e soluções web**.
 
