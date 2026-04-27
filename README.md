@@ -1,6 +1,6 @@
 # 👋 | Hello, I'm Cleilton Nascimento
 
-Sou um **Desenvolvedor em transição de carreira**, com base sólida em **Gestão de Recursos Humanos (UNIFAP – Ceará, 2023)** e experiência administrativa, atualmente focado em **desenvolvimento de software e soluções web**.
+Sou um **Desenvolvedor em transição de carreira**, com base sólida em **Gestão de Recursos Humanos formado pela (UNIFAP – Ceará, 2023),** experiência administrativa, atualmente focado em **desenvolvimento de software e soluções web**.
 
 I am a **career-transitioning Developer**, with a solid background in **Human Resources Management** and administrative processes, currently focused on **software development and web-based solutions**.
 
